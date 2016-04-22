@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-0 .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#header4-1 H1 {
+  text-align: center;
+  color: #252525;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+}
+#header3-5 H3 {
+  text-align: center;
+  font-size: 16px;
+}
+#header3-5 P {
+  text-align: center;
+}
+#content4-3 .mbr-section__col .mbr-header__text {
+  color: #4c6972;
+}
+#content4-3 P {
+  text-align: center;
+}
+#contacts3-7 P {
+  color: #4c6972;
+}
